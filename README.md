@@ -1,5 +1,5 @@
 # IotAnnouncer
-Playing with a raspberry pi.
+Playing with a raspberry pi. A project that announces someone's entry into the room by playing their signature tune.
 
 ## Phase 1
 First attempt is all the code in one script
@@ -9,4 +9,4 @@ First attempt is all the code in one script
 - If a match is found it plays a tune for that person.
 
 ## Future phases?
-Want to separate the triggering so that it could be handled by a separate pi. If on the same network thinking of using Zero MQ. If not on the same network then a cloud based messaging service.
+Want to separate the triggering so that it could be handled by a separate pi. If on the same network with Zero MQ. If not on the same network then a cloud based messaging service.
